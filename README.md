@@ -29,6 +29,6 @@ Here are some of the projects I've built and contributed to:
 
 - [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-rodriguez-aa6b241a3/)  
 
-- 
+- [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:danieldroficial@gmail.com)  
 _Always learning, always building. Let's make something for the greater good._ 🚀
 
