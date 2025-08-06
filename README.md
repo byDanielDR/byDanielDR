@@ -21,9 +21,10 @@ Here are some of the projects I've built and contributed to:
 - 🧠 **Mini AI Chatbot using OpenAI API** – Deployed with Render
 
 ### 📈 What I'm Working On Now
-- 💼 A personal finance tracker (React + MongoDB)
-- 🧠 Daily LeetCode challenges (arrays, recursion, hashmaps)
-- 📦 Building modular, testable APIs with Flask + JWT auth
+
+- 🧠 Realtime Team Task & Code Collaboration Platform.
+- 🤖 AI‑Driven Customer Support Workflow Optimizer.
+- 🚀 Sustainability Impact Tracking & Recommendation Engine for SMEs.
 
 ### 📫 Let's Connect
 
